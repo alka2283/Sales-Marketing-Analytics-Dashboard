@@ -1,4 +1,4 @@
-# Interactive Power BI Dashboards
+# Sales & Marketing Analytics Dashboard
 
 ## Project Overview
 
@@ -10,7 +10,8 @@ This repository contains Power BI dashboards developed for business intelligence
 * DAX
 * Power Query
 * SQL Server
-* Data Modeling
+* Data Modelling
+* Power BI Service
 
 ## Key Features
 
