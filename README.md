@@ -3,7 +3,7 @@
 ## Project Overview
 This Power BI dashboard was developed to monitor and analyse Net Cash Realization (NCR), sales quantity, and expense components across multiple business hierarchies. The solution enables management to track profitability, identify cost drivers, and make data-driven decisions through interactive reporting and drill-down analysis.
 
---
+---
 ## Business Objectives
 
 The project was designed to answer key business questions:
