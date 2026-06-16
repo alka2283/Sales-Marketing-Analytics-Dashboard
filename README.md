@@ -75,16 +75,18 @@ Provides:
 * SQL Server
 * Data Modeling
 * Power Query
-* Financial Analytics 
 
 ---
 ## Skills Demonstrated
 
 * Business Intelligence
 * Data Visualization
-* Financial & Profitability Analysis 
-•	DAX Development 
-•	Data Modelling 
-•	Interactive Dashboard Design 
-•	Drill-through & Decomposition Tree Analysis 
-•	KPI Development
+* Financial & Profitability Analysis
+* DAX Development
+* Data Modelling
+* Interactive Dashboard Design
+* Drill-through & Decomposition Tree Analysis 
+
+## Author
+
+Alka Patel
