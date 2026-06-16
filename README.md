@@ -1,42 +1,60 @@
-# Sales & Marketing Analytics Dashboard
-
-## Project Overview
-
-This repository contains Power BI dashboards developed for business intelligence, sales analytics, complaint monitoring, inventory analysis, and KPI tracking.
-
-## Tools Used
-
-* Power BI
-* DAX
-* Power Query
-* SQL Server
-* Data Modelling
-* Power BI Service
-
-## Key Features
-
-* Interactive filters and slicers
-* KPI cards and trend analysis
-* Drill-through reports
-* Dynamic DAX calculations
-* Business performance monitoring
-
-## Dashboard Screenshots
-
-### Complaint Dashboard
-
-(Add screenshot here)
-
-### Sales Dashboard
-
-(Add screenshot here)
-
-### Loyalty Dashboard
-
-(Add screenshot here)
-
-## Author
-
-Alka Patel
-Data Analyst
-
+Net Cash Realization (NCR) Analytics Dashboard
+Project Overview
+This Power BI dashboard was developed to monitor and analyse Net Cash Realization (NCR), sales quantity, and expense components across multiple business hierarchies. The solution enables management to track profitability, identify cost drivers, and make data-driven decisions through interactive reporting and drill-down analysis.
+________________________________________
+Business Objectives
+The project was designed to answer key business questions:
+•	How is NCR performing across regions, branches, and territories? 
+•	How does current NCR compare with previous periods (MTD, QTD, YTD)? 
+•	Which expense components impact profitability the most? 
+•	Which products and customers contribute the highest realization? 
+•	Where are the major opportunities for cost optimization? 
+Dashboard Pages
+1. NCR Performance Overview
+Provides a high-level summary of:
+•	Current Month NCR 
+•	Previous Month NCR 
+•	MTD, QTD & YTD NCR 
+•	Current Year vs Previous Year NCR 
+•	Sales Quantity (MT) 
+2. Trend Analysis
+Analyzes:
+•	Daily NCR Trends 
+•	Current vs Previous Month Performance 
+•	Realization Movement Over Time 
+3. Expense Analysis
+Explores:
+•	Total Expense Distribution 
+•	Scheme Expenses 
+•	Secondary Freight Expenses 
+•	Handling Charges 
+•	Product-wise Expense Contribution 
+4. Profitability Explorer
+Provides:
+•	Region-wise Analysis 
+•	Branch-wise Analysis 
+•	Territory-wise Analysis 
+•	Customer-level Drill-down using Decomposition Tree
+Key Insights
+•	Identified regions and territories driving NCR performance. 
+•	Highlighted major expense contributors impacting profitability. 
+•	Enabled customer-level profitability analysis through drill-down capabilities. 
+•	Improved visibility into NCR trends across organizational hierarchies.
+Tools & Technologies
+•	Power BI 
+•	DAX 
+•	SQL Server 
+•	Data Modeling 
+•	Power Query 
+•	KPI Reporting 
+•	Financial Analytics 
+________________________________________
+Skills Demonstrated
+•	Business Intelligence 
+•	Data Visualization 
+•	Financial & Profitability Analysis 
+•	DAX Development 
+•	Data Modelling 
+•	Interactive Dashboard Design 
+•	Drill-through & Decomposition Tree Analysis 
+•	KPI Development
