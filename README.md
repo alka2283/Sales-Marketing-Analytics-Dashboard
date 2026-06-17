@@ -59,7 +59,7 @@ Provides:
 
 ---
 
-## Dashboard Screenshots
+## Dashboard Pages
 
 ### NCR Summary
 ![NCR Summary](NCR%20Summary.png)
