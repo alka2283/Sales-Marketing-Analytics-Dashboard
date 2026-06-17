@@ -7,6 +7,7 @@ This Power BI dashboard was developed to monitor and analyse Net Cash Realizatio
 ## Business Objectives
 
 The project was designed to answer key business questions:
+
 * How is NCR performing across regions, branches, and territories? 
 * How does current NCR compare with previous periods (MTD, QTD, YTD)?
 * Which expense components impact profitability the most?
@@ -36,7 +37,7 @@ Analyzes:
 * Realization Movement Over Time
 
 ---
-### 3. Expense Analysis
+### 3. Cost Analysis
 
 Explores:
 
@@ -95,12 +96,9 @@ Provides:
 ---
 ## Skills Demonstrated
 
-* Business Intelligence
+* Business Understanding
 * Data Visualization
 * Financial & Profitability Analysis
-* DAX Development
-* Data Modelling
-* Interactive Dashboard Design
 * Drill-through & Decomposition Tree Analysis 
 
 ## Author
