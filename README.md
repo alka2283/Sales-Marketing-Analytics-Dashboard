@@ -59,6 +59,33 @@ Provides:
 
 ---
 
+### 4. Profitability Explorer
+
+Provides:
+
+* Region-wise Analysis
+* Branch-wise Analysis
+* Territory-wise Analysis
+* Customer-level Drill-down using Decomposition Tree
+
+---
+
+## Dashboard Screenshots
+
+### NCR Summary
+![NCR Summary](NCR%20Summary.png)
+
+### Cost Analysis
+![Cost Analysis](Cost%20Analysis.png)
+
+### Billing Comparison
+![Billing Comparison](Billing%20Comparison.png)
+
+### Decomposition Tree
+![Decomposition Tree](decomposition%20tree.png)
+
+---
+
 ## Key Insights
 
 * Identified regions and territories driving NCR performance.
